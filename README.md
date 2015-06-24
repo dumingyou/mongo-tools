@@ -4,7 +4,7 @@ mongosync,mongobackup
 
 - how to compile ?
 
-comile with mongodb v2.4 source files right now.
+compile with mongodb v2.4 source files right now.
 LICENSE GPL V3
 
 
